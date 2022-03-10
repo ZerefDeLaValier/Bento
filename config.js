@@ -56,7 +56,7 @@ const CONFIG = {
       id: '1',
       name: 'Github',
       icon: 'github',
-      link: 'https://192.168.88.215:3333/',
+      link: 'gitlab.local',
     },
     {
       id: '2',
@@ -80,13 +80,13 @@ const CONFIG = {
       id: '5',
       name: 'Reddit',
       icon: 'glasses',
-      link: 'https://reddit.com',
+      link: 'bookstack.local',
     },
     {
       id: '6',
       name: 'Odysee',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://www.youtube.com/',
     },
   ],
 
