@@ -56,19 +56,19 @@ const CONFIG = {
       id: '1',
       name: 'Github',
       icon: 'github',
-      link: 'https://github.com/',
+      link: 'https://192.168.88.215:3333/',
     },
     {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.yandex.ru/',
     },
     {
       id: '3',
       name: 'Todoist',
       icon: 'trello',
-      link: 'https://todoist.com',
+      link: 'https://trello.com/b/PNVnBROu/%D0%BA%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D1%8B-2022',
     },
     {
       id: '4',
