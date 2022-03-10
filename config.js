@@ -68,7 +68,7 @@ const CONFIG = {
       id: '3',
       name: 'Todoist',
       icon: 'trello',
-      link: 'https://trello.com/b/PNVnBROu/%D0%BA%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D1%8B-2022',
+      link: 'https://trello.com/',
     },
     {
       id: '4',
