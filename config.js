@@ -93,9 +93,9 @@ const CONFIG = {
   secondButtonsContainer: [
     {
       id: '1',
-      name: 'Music',
+      name: 'Yandex Music',
       icon: 'headphones',
-      link: 'https://open.spotify.com',
+      link: 'https://music.yandex.ru/',
     },
     {
       id: '2',
