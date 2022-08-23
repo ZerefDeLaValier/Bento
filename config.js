@@ -68,7 +68,7 @@ const CONFIG = {
       id: '3',
       name: 'Todoist',
       icon: 'trello',
-      link: 'https://trello.com/',
+      link: 'https://unlim.planfix.ru/',
     },
     {
       id: '4',
