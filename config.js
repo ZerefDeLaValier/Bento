@@ -162,12 +162,12 @@ const CONFIG = {
       id: '2',
       links: [
         {
-          name: 'Linkedin',
-          link: 'https://www.linkedin.com',
+          name: 'Poland',
+          link: 'http://193.201.115.86:11111',
         },
         {
-          name: 'Dribbble',
-          link: 'https://www.dribbble.com',
+          name: 'Amsterdam',
+          link: 'http://46.151.28.167:51821',
         },
         {
           name: 'Trello',
