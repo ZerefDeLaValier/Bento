@@ -163,19 +163,19 @@ const CONFIG = {
       links: [
         {
           name: 'Poland',
-          link: 'http://193.201.115.86:11111',
+          link: 'http://193.201.115.86:9443',
         },
         {
           name: 'Amsterdam',
-          link: 'http://46.151.28.167:51821',
+          link: 'http://46.151.28.167:9443',
         },
         {
-          name: 'Trello',
-          link: 'https://www.trello.com',
+          name: 'Poland Pi',
+          link: 'http://193.201.115.86:5353/admin/login.php',
         },
         {
-          name: 'Slack',
-          link: 'https://www.slack.com',
+          name: 'Amsterdam Pi',
+          link: 'http://46.151.28.167:5353/admin/login.php',
         },
       ],
     },
